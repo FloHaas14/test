@@ -6,3 +6,6 @@
  * and open the template in the editor.p^$µp^µ
  */
 
+echo 'je fais un test'
+
+?>
